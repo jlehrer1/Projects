@@ -1,7 +1,7 @@
 # Projects
 ## The master list of all my projects. 
 
-Code is maintained [here](https://github.com/jlehrer1/Projects).
+Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 
 | **Title** | **Description** | **Tech Stack** 
 | --- | --- | --- |
