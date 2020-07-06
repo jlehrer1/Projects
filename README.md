@@ -13,6 +13,6 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | [Personal Website](https://github.com/jlehrer1/personal-website) | My personal website, listing my projects, interests, and resume. | Bootstrap, HTML, CSS, Javascript |
 | [WeatherPollution](https://github.com/jlehrer1/WeatherPollution) | An iOS app that uses the free OpenWeatherMap api to display current weather conditions and air pollution in your area. | Swift 4 |
 | [BTTPractical](https://github.com/jlehrer1/BTT-Practical) | (WIP) A custom Touch Bar for the Macbook Pro. Focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. Installed using BetterTouchTool | Shell, BetterTouchTool |
-| [touch-id-for-sudo](https://github.com/jlehrer1/touchid-for-sudo) | (WIP) A script to safely enable using the Macbook's Touch ID for sudo running commands. | Shell | 
+| [touch-id-for-sudo](https://github.com/jlehrer1/touchid-for-sudo) | A tool to safely enable using the Macbook's Touch ID for sudo running commands. | Shell | 
 
 
