@@ -14,5 +14,6 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | [WeatherPollution](https://github.com/jlehrer1/WeatherPollution) | An iOS app that uses the free OpenWeatherMap api to display current weather conditions and air pollution in your area. | Swift 4 |
 | [BTTPractical](https://github.com/jlehrer1/BTT-Practical) | (WIP) A custom Touch Bar for the Macbook Pro. Focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. Installed using BetterTouchTool | Shell, BetterTouchTool |
 | [touch-id-for-sudo](https://github.com/jlehrer1/touchid-for-sudo) | A tool to safely enable using the Macbook's Touch ID for sudo running commands. | Shell | 
+| [cookiecutter-minimal-datascience](https://github.com/jlehrer1/cookiecutter-minimal-datascience) | A cookiecutter project template for simple, competitive data science projects. | Python | 
 
 
