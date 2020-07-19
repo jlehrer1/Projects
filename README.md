@@ -1,5 +1,4 @@
 # Projects
-## The master list of all my projects. 
 
 Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 
