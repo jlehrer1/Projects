@@ -29,3 +29,5 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | --- | --- | --- |
 | [WeatherPollution](https://github.com/jlehrer1/WeatherPollution) | An iOS app that uses the free OpenWeatherMap api to display current weather conditions and air pollution in your area. | Swift 4 |
 | [BTTPractical](https://github.com/jlehrer1/BTT-Practical) | (WIP) A custom Touch Bar for the Macbook Pro. Focused on a clean, minimalistic design for those interested in hardware stats and essential developer tools. Installed using BetterTouchTool | Shell, BetterTouchTool |
+| [Resume](https://github.com/jlehrer1/resume) | My resume, written entirely in LaTex.  | Tex |
+
