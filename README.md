@@ -23,7 +23,7 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | **Title** | **Description** | **Tech Stack** 
 | --- | --- | --- |
 | [Portfolio](https://github.com/jlehrer1/personal-website) | My portfolio, listing my projects, interests, and resume. | Bootstrap, HTML, CSS, Javascript |
-| [Blog](https://jlehrer1.github.io) | My blog for cooking, baking and some occasional programming. | Ruby (Jekyll) |
+| [Blog](https://jlehrer1.github.io) | (WIP) My blog for cooking, baking and some occasional programming. | Ruby (Jekyll) |
 
 ## Misc
 | **Title** | **Description** | **Tech Stack** 
