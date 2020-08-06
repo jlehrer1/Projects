@@ -6,9 +6,10 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | **Title** | **Description** | **Tech Stack** 
 | --- | --- | --- |
 | [The Transparency Project (Cruzhacks)](https://github.com/jlehrer1/Cruzhacks)| 1st place winner of the Cruzhacks 2020, a project visualizing political ad spending on social media to bring transparency to the presidential primaries. Live at [transparencyproject.tech](http://transparencyproject.tech/candidate_dashboard)| Javascript (Bootstrap), Python (flask, pandas, plotly, dash), Google Cloud Platform |
+| [InstantEDA](https://github.com/jlehrer1/InstantEDA)| Instantly generate sets of common exploratory data plots defined over any DataFrame columns without having to worry about cleaning your data. Published on PyPi. | Python (pandas, plotly, numpy) |
+| [SQLtoPandas](https://github.com/jlehrer1/sql-to-pandas) | (WIP) Use SQL to query Pandas DataFrames. Published on PyPi | Python (Pandas, sqlite3) |
 | [DrivenData: DengueAI](https://github.com/datascienceslugs/dss-diseasespread)| (WIP) DrivenData competion using linear models and Prophet to predict cases of Dengue Fever. Top ~12% ranking | Python (matplotlib, pandas, plotly, scikit-learn, prophet) |
 | [DrivenData: Flu Prediction](https://github.com/jlehrer1/drivendata-flu) | DrivenData compeition based on predicting the number of cases of flu per season | Python (scikit-learn, plotly, pandas) | 
-| [InstantEDA](https://github.com/jlehrer1/InstantEDA)| Instantly generate sets of common exploratory data plots defined over any DataFrame columns without having to worry about cleaning your data. Published on PyPi. | Python (pandas, plotly, numpy) |
 | [Quick Model](https://github.com/jlehrer1/quick_model)| Run from the command line and recieve a saved Tensorflow CNN trained to detect images of the object of your choice! | Python (tensorflow, tqdm, numpy, requests, urllib) |
 | [cookiecutter-minimal-datascience](https://github.com/jlehrer1/cookiecutter-minimal-datascience) | A cookiecutter project template for simple, competitive data science projects. | Python | 
 | [cookiecutter-minimal-pypackage](https://github.com/jlehrer1/cookiecutter-minimal-pypackage) | A cookiecutter project template for PyPi packages. | Python |
