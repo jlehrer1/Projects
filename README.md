@@ -6,6 +6,7 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects).
 | **Title** | **Description** | **Tech Stack** 
 | --- | --- | --- |
 | [The Transparency Project (Cruzhacks)](https://github.com/jlehrer1/Cruzhacks)| 1st place winner of the Cruzhacks 2020, a project visualizing political ad spending on social media to bring transparency to the presidential primaries. Live at [transparencyproject.tech](http://transparencyproject.tech/candidate_dashboard)| Javascript (Bootstrap), Python (flask, pandas, plotly, dash), Google Cloud Platform |
+| [statdepth (UCSC GI)](https://github.com/braingeneers/functional_depth_methods)| Python library for statistical depth calculations. Built for univariate functional data, multivariate functional data, and pointcloud data. Used for genomics research and analysis. | Python (pandas, numpy, scipy, plotly) |
 | [InstantEDA](https://github.com/jlehrer1/InstantEDA)| Instantly generate sets of common exploratory data plots defined over any DataFrame columns without having to worry about cleaning your data. Published on PyPi. | Python (pandas, plotly, numpy) |
 | [SQLtoPandas](https://github.com/jlehrer1/sql-to-pandas) | (WIP) Use SQL to query Pandas DataFrames. Published on PyPi | Python (Pandas, sqlite3) |
 | [DrivenData: DengueAI](https://github.com/datascienceslugs/dss-diseasespread)| (WIP) DrivenData competion using linear models and Prophet to predict cases of Dengue Fever. Top ~12% ranking | Python (matplotlib, pandas, plotly, scikit-learn, prophet) |
