@@ -6,6 +6,8 @@ Code for this list is maintained [here](https://github.com/jlehrer1/Projects). A
 | **Title** | **Description** | **Tech Stack** 
 | --- | --- | --- |
 | [The Transparency Project (Cruzhacks)](https://github.com/jlehrer1/Cruzhacks)| 1st place winner of the Cruzhacks 2020, a project visualizing political ad spending on social media to bring transparency to the presidential primaries. Live at [transparencyproject.tech](http://transparencyproject.tech/candidate_dashboard)| Javascript (Bootstrap), Python (flask, pandas, plotly, dash), Google Cloud Platform |
+| [torchcsv](https://github.com/jlehrer1/torchcsv)| A small library built on the PyTorch API for a custom Dataset class for reading numerical data too large to fit in local memory. | Python (pandas, PyTorch) |  
+| [transpose-csv](https://github.com/jlehrer1/transpose-csv)| Python library for calculating the transpose of a .csv too large to fit in memory. | Python (pandas) |  
 | [statdepth (UCSC GI)](https://github.com/braingeneers/functional_depth_methods)| Python library for statistical depth calculations. Built for univariate functional data, multivariate functional data, and pointcloud data. Used for genomics research and analysis. | Python (pandas, numpy, scipy, plotly) |
 | [tinycomp](https://github.com/jlehrer1/tinycomp)| A Pandas-like library for doing computations on small subsets of a large numerical DataFrame too large to fit in memory. | Python (pandas, numpy, linecache) |
 | [ConvNeXt-Lightning](https://github.com/jlehrer1/ConvNeXt-lightning)| An implementation of the ConvNeXt architecture, built on the PyTorch Lightning API for easy scalable training. | Python (PyTorch, PyTorch-Lightning, pandas) |
